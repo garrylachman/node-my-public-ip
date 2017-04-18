@@ -12,6 +12,8 @@ APIs List:
 * nekudo
 
 ## Usage
+npm install my-public-ip
+
 ```javascript
 const ip = require('my-public-ip');
 
