@@ -4,7 +4,6 @@ exports.testServices = function(test) {
 	let services = [
 		require(`${servicesPath}/ip-api-service`),
 		require(`${servicesPath}/freegeoip-service`),
-		require(`${servicesPath}/ipfind-service`),
 		require(`${servicesPath}/ipapi-co-service`),
 		require(`${servicesPath}/ipinfo-service`),
 		require(`${servicesPath}/nekudo-service`),
